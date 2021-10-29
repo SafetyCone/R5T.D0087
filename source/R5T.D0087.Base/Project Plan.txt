@@ -1,0 +1,3 @@
+R5T.D0087.Base - Service definitions for IHostConfigurer service.
+
+GOALS:
